@@ -1,0 +1,26 @@
+#canvas1{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 800px;
+    height: 300px;
+    border: 2px solid black;
+}
+
+form {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 780px;
+    border: 2px solid black;
+    background-color: aquamarine;
+    height: 300px;
+    font-style: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+    font-size: normal;
+    padding-left:20px;
+    padding-top:20px; 
+}
